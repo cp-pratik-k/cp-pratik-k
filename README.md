@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">🚀 Pratik Canopas</h1>
 
-<!--
-**cp-pratik-k/cp-pratik-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 18px;">
+  <strong>📱 Mobile App Developer at Canopas</strong> <br>
+  Passionate about building high-performance mobile applications with Flutter & Jetpack Compose.
+</p>
 
-Here are some ideas to get you started:
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=cp-pratik-k&repo=cp-pratik-k&countColorcountColor&countColor=%237B1E7B"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Dart, Kotlin, Swift, Python, C++  
+- **Frameworks:** Flutter, Jetpack Compose
+- **CI/CD:** GitHub Actions, Fastlane, Firebase App Distribution  
+
+
+
